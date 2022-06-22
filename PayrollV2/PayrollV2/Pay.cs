@@ -65,7 +65,7 @@ namespace PayrollV2
         {
             try
             {
-                StreamWriter sw = new StreamWriter("C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2.Text", true, Encoding.ASCII);
+                StreamWriter sw = new StreamWriter("C:\\Prueba.Text", true, Encoding.ASCII);
 
                 Console.WriteLine($"documentation id: {newEmployed.Documentation_ID1} ");
                 Console.WriteLine($"First Name: {newEmployed.First_Name1 } ");
