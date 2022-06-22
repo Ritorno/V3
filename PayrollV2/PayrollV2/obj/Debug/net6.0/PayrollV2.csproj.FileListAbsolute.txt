@@ -1,0 +1,15 @@
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.csproj.AssemblyReference.cache
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.AssemblyInfoInputs.cache
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.AssemblyInfo.cs
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.csproj.CoreCompileInputs.cache
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\bin\Debug\net6.0\PayrollV2.exe
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\bin\Debug\net6.0\PayrollV2.deps.json
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\bin\Debug\net6.0\PayrollV2.runtimeconfig.json
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\bin\Debug\net6.0\PayrollV2.dll
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\bin\Debug\net6.0\PayrollV2.pdb
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.dll
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\refint\PayrollV2.dll
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.pdb
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\PayrollV2.genruntimeconfig.cache
+C:\Users\Sena1\Desktop\jei_We\actividad quiz\PayrollV2\PayrollV2\obj\Debug\net6.0\ref\PayrollV2.dll
