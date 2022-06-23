@@ -63,19 +63,19 @@ namespace PayrollV2
 
         public void PrintData()
         {
-            try
+            
+             try
             {
-                StreamWriter sw = new StreamWriter("C:\\Prueba.Text", true, Encoding.ASCII);
+                StreamWriter sw = new StreamWriter("Prueba.txt", true, Encoding.ASCII);
 
-                Console.WriteLine($"documentation id: {newEmployed.Documentation_ID1} ");
-                Console.WriteLine($"First Name: {newEmployed.First_Name1 } ");
-                Console.WriteLine($"Last name: {newEmployed.Last_Name1 } ");
-                Console.WriteLine($"salary: {newEmployed.Salary1 } ");
-                Console.WriteLine($"Days Worked: {newEmployed.Days_Worked1 } ");
-                Console.WriteLine($"Income: {newEmployed.Income1 } ");
-                Console.WriteLine($"Health: {newEmployed.Health1 } ");
-                Console.WriteLine($"Pension: {newEmployed.Pension1 } ");
-
+                sw.WriteLine($"documentation id: {newEmployed.Documentation_ID1} ");
+                sw.WriteLine($"First Name: {newEmployed.First_Name1 } ");
+                sw.WriteLine($"Last name: {newEmployed.Last_Name1 } ");
+                sw.WriteLine($"salary: {newEmployed.Salary1 } ");
+                sw.WriteLine($"Days Worked: {newEmployed.Days_Worked1 } ");
+                sw.WriteLine($"Income: {newEmployed.Income1 } ");
+                sw.WriteLine($"Health: {newEmployed.Health1 } ");
+                sw.WriteLine($"Pension: {newEmployed.Pension1 } ");
 
                 sw.Close();
 
@@ -95,9 +95,8 @@ namespace PayrollV2
                 Console.WriteLine("EXECUTING FINALLY BLOCK");
 
             }
-
-
-
+            
+           
             //Console.WriteLine($"documentation id: {newEmployed.Documentation_ID1} ");
             //Console.WriteLine($"First Name: {newEmployed.First_Name1 } ");
             //Console.WriteLine($"Last name: {newEmployed.Last_Name1 } ");
