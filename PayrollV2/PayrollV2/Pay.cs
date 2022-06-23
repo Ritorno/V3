@@ -66,7 +66,7 @@ namespace PayrollV2
             
              try
             {
-                StreamWriter sw = new StreamWriter("Prueba.txt", true, Encoding.ASCII);
+                StreamWriter sw = new StreamWriter("Test.txt", true, Encoding.ASCII);
 
                 sw.WriteLine($"documentation id: {newEmployed.Documentation_ID1} ");
                 sw.WriteLine($"First Name: {newEmployed.First_Name1 } ");
